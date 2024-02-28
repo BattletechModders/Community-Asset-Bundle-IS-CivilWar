@@ -1,0 +1,63 @@
+Attributions for CAB-IS-CivilWar
+
+This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model).
+
+Lt. Shade
+Models:
+Archangel
+Argus
+Lao Hu
+Templar
+Valiant
+
+GentlePayload:
+Models:
+Hauptmann
+Anubis
+Preta
+
+Ion Raptor
+Models:
+Chimera
+Razorback
+Vanquisher
+(Arthur) Pendragon
+Legacy
+Seraph
+Grigori
+Deva
+Malak
+Gurkha
+
+
+Transient74/IonRaptor/JuodasVarnas
+Models:
+Schwerer Gustav
+
+Piranha Games, Inc.
+Models:
+Fafnir
+Hellspawn
+Osiris
+Thanatos
+Uziel
+
+JuodasVarnas 
+Models:
+Yeoman
+Mantis
+Brigand
+
+SmallRobotsInAContainer/Napes
+Models:
+Wight
+Sha Yu
+
+
+SirMortimer and Transient
+Models:
+Ghost
+
+Rumia and Transient
+Models:
+Cossack
