@@ -53,6 +53,9 @@ Models:
 Wight
 Sha Yu
 
+SmallRobotsInAContainer/Napes and Transient74
+Models:
+Sha Yu Redux
 
 SirMortimer and Transient
 Models:

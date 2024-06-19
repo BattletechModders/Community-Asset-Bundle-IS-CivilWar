@@ -768,6 +768,45 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayu/chrprfweap_shayu_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shayubase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayu/chrprfweap_shayu_centertorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_shayubase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayu/chrprfweap_shayu_centertorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_shayubase-001" },
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/shayuredux/chrPrfComp_shayuredux_simgame.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_shayureduxbase-001.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/shayuredux/chrPrfComp_shayuredux_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_leftarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_leftarm_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_leftarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_leftarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_leftarm_lrm5_mh4.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_rightarm_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_rightarm_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_rightarm_laser_eh3.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_rightarm_lrm5_mh4.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_righttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_righttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_righttorso_laser_eh4.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_righttorso_ppc_eh5.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_righttorso_srm6_mh6.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_righttorso_lrm5_mh8.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_lefttorso_laser_eh3.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_lefttorso_laser_eh4.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_lefttorso_ppc_eh5.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_lefttorso_srm6_mh6.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_lefttorso_lrm5_mh8.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/shayuredux/chrprfweap_shayuredux_centertorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_shayureduxbase-001" },
 
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/templar/chrPrfComp_templar_simgame.prefab", "AssetBundleName": "chrprfmech_templarbase-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_templarbase-001.prefab", "AssetBundleName": "chrprfmech_templarbase-001" },
