@@ -30,6 +30,11 @@ Malak
 Gurkha
 
 
+Transient74
+Models:
+Jinggau
+
+
 Transient74/IonRaptor/JuodasVarnas
 Models:
 Schwerer Gustav

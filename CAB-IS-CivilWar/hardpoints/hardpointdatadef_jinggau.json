@@ -1,0 +1,101 @@
+{
+    "ID" : "hardpointdatadef_jinggau",
+    "HardpointData" : [     
+		{
+            "location" : "head",
+          "weapons" : [
+			[
+			"chrprfweap_jinggau_head_laser_eh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "centertorso",
+          "weapons" : [
+			[
+			"chrprfweap_jinggau_centertorso_laser_eh1"
+			],
+			[
+			"chrprfweap_jinggau_centertorso_laser_eh2"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "righttorso",
+            "weapons" : [
+			[
+			"chrprfweap_jinggau_righttorso_laser_eh1"
+			]
+			],
+            "blanks" : [],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "lefttorso",
+          "weapons" : [
+			[
+			"chrprfweap_jinggau_lefttorso_laser_eh1"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+		{
+            "location" : "leftarm",
+        "weapons" : [
+			[
+			"chrprfweap_jinggau_leftarm_laser_eh1",
+			"chrprfweap_jinggau_leftarm_ppc_eh1"
+			],
+			[
+			"chrprfweap_jinggau_leftarm_laser_eh2",
+			"chrprfweap_jinggau_leftarm_ppc_eh2"
+			],
+			[
+			"chrprfweap_jinggau_leftarm_laser_eh3",
+			"chrprfweap_jinggau_leftarm_ppc_eh3"
+			],
+			[
+			"chrprfweap_jinggau_leftarm_laser_eh4",
+			"chrprfweap_jinggau_leftarm_ppc_eh4"
+			],
+			[
+			"chrprfweap_jinggau_leftarm_laser_eh5",
+			"chrprfweap_jinggau_leftarm_ppc_eh5"
+			],
+			[
+			"chrprfweap_jinggau_leftarm_laser_eh6",
+			"chrprfweap_jinggau_leftarm_ppc_eh6"
+			]
+			],
+            "blanks" : [],
+            "mountingPoints" : []
+        },
+        {
+            "location" : "rightarm",
+          "weapons" : [
+			[
+			"chrprfweap_jinggau_rightarm_ac10_bh1",
+			"chrprfweap_jinggau_rightarm_gauss_bh1",
+			"chrprfweap_jinggau_rightarm_uac5_bh1",
+			"chrprfweap_jinggau_rightarm_mortar_bh1",
+			"chrprfweap_jinggau_rightarm_laser_eh1",
+			"chrprfweap_jinggau_rightarm_ppc_eh1"
+			],
+			[
+			"chrprfweap_jinggau_rightarm_laser_eh2",
+			"chrprfweap_jinggau_rightarm_ppc_eh2"
+			]
+			],
+            "blanks" : [],             
+            "mountingPoints" : []
+        }
+
+    ]
+	
+}

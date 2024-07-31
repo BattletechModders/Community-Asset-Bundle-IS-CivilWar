@@ -2,6 +2,10 @@ Changelog for CAB-IS-CivilWar
 
 -----------------------------------------------------
 
+1.3
+
+Added the Jinggau
+
 1.2
 
 Archangel Update/Redux (replaced old Archangel)
