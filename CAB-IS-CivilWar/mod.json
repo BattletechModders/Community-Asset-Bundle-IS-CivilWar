@@ -1446,7 +1446,22 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jinggau/chrprfweap_jinggau_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_jinggaubase-001" },	
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jinggau/chrprfweap_jinggau_centertorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_jinggaubase-001" },	
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jinggau/chrprfweap_jinggau_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_jinggaubase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/jinggau/chrprfweap_jinggau_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_jinggaubase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hyena/chrPrfComp_hyena_simgame.prefab", "AssetBundleName": "chrprfmech_hyenabase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_hyenabase-001.prefab", "AssetBundleName": "chrprfmech_hyenabase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/hyena/chrPrfComp_hyena_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_hyenabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hyena/chrprfweap_hyena_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hyenabase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hyena/chrprfweap_hyena_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hyenabase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hyena/chrprfweap_hyena_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hyenabase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hyena/chrprfweap_hyena_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hyenabase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hyena/chrprfweap_hyena_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_hyenabase-001" }
 	
     ]
 }

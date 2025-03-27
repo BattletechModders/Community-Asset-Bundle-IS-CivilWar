@@ -69,3 +69,7 @@ Ghost
 Rumia and Transient
 Models:
 Cossack
+
+highlandblues and Transient
+Models:
+Hyena
